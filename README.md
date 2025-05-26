@@ -1,6 +1,6 @@
 # Hi there, I'm Hala 👋
 
-I'm a **Data Analyst & Scientist** with a background in **Mathematics** . I'm passionate about transforming data into actionable insights using Python, R, SQL, and visualization tools.
+I'm a **Data Analyst** with a background in **Mathematics** . I'm passionate about transforming data into actionable insights using Python, R, SQL, and visualization tools.
 
 ## 🔧 Tools & Technologies
 - 📊 Python | R | SQL | Excel 
