@@ -5,7 +5,10 @@ I'm a **Data Analyst & Scientist** with a background in **Mathematics** . I'm pa
 ## 🔧 Tools & Technologies
 - 📊 Python | R | SQL | Excel 
 - 📚 ML Libraries: Scikit-learn
-- 📈 Visualization: Matplotlib, Seaborn, Plotly,Ggplot2,Shiny,Dash ,Tableau, Power BI
+- 📈 Visualization:
+  - Python: Matplotlib, Seaborn, Plotly  
+  - R: ggplot2, Shiny  
+  - BI Tools: Dash, Tableau, Power BI 
 - 🧠 Interests: Data storytelling, Forecasting, NLP
 
 ## 📌 Current Focus
