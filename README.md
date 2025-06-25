@@ -14,7 +14,7 @@ I'm a **Data Analyst** with a background in **Mathematics** . I'm passionate abo
 ## 📌 Current Focus
 - Developing projects in data analytics
 - Building dashboards for businesses
-- Practicing NLP 
+- Practicing ML 
 
 ## 📫 How to reach me
 - 💼 LinkedIn:(https://www.linkedin.com/in/halaturki-alotaibi/)
